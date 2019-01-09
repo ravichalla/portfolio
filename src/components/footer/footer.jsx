@@ -8,6 +8,7 @@ export default class Header extends Component {
         <footer>
           <div className="row">
             <div className="twelve columns">
+              {/*
               <ul className="social-links">
                 <li>
                   <a href="#">
@@ -45,20 +46,10 @@ export default class Header extends Component {
                   </a>
                 </li>
               </ul>
+              */}
               <ul className="copyright">
-                <li>© Copyright 2014 CeeVee</li>
-                <li>
-                  Design by{" "}
-                  <a title="Styleshout" href="http://www.styleshout.com/">
-                    Styleshout
-                  </a>
-                </li>
+                <li>© Copyright Ravi Challa</li>
               </ul>
-            </div>
-            <div id="go-top">
-              <a className="smoothscroll" title="Back to Top" href="#home">
-                <i className="icon-up-open" />
-              </a>
             </div>
           </div>
         </footer>{" "}
