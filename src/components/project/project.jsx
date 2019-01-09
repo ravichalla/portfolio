@@ -44,19 +44,17 @@ export default class Project extends Component {
                       style={{ width: "320px", height: "320px" }}
                     >
                       <div className="item-wrap">
-                        <a>
-                          <img
-                            src={`${item.picfile}`}
-                            className="item-img"
-                            style={{ width: "240px", height: "240px" }}
-                          />
-                          <div className="overlay">
-                            <div className="portfolio-item-meta">
-                              <h5>{item.projecttitle}</h5>
-                              <p>{item.projectdescription}</p>
-                            </div>
+                        <img
+                          src={`${item.picfile}`}
+                          className="item-img"
+                          style={{ width: "240px", height: "240px" }}
+                        />
+                        <div className="overlay">
+                          <div className="portfolio-item-meta">
+                            <h5>{item.projecttitle}</h5>
+                            <p>{item.projectdescription}</p>
                           </div>
-                        </a>
+                        </div>
                       </div>
                       <div className="link-box">
                         <a target="_blank" href={item.codeurl}>

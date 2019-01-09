@@ -6,9 +6,10 @@ export default class Header extends Component {
         {/* footer
    ================================================== */}
         <footer>
-          <div className="row">
-            <div className="twelve columns">
-              {/*
+          <section id="footer">
+            <div className="row">
+              <div className="twelve columns">
+                {/*
               <ul className="social-links">
                 <li>
                   <a href="#">
@@ -47,12 +48,13 @@ export default class Header extends Component {
                 </li>
               </ul>
               */}
-              <ul className="copyright">
-                <li>© Copyright Ravi Challa</li>
-              </ul>
+                <ul className="copyright">
+                  <li style={{ color: "white" }}>© Copyright Ravi Challa</li>
+                </ul>
+              </div>
             </div>
-          </div>
-        </footer>{" "}
+          </section>
+        </footer>
         {/* Footer End*/}
       </React.Fragment>
     );
