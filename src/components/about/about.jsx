@@ -11,7 +11,7 @@ export default class About extends Component {
             <div className="nine columns main-col">
               <h2>About Me</h2>
               <p>
-                I am pursing my Masters from University of Central Missouri in
+                I am pursuing my Masters from University of Central Missouri in
                 Computer Science.I hold an Undergraduate degree from Andhra
                 University. I have taken up courses like Advanced
                 Algorithms,Advanced Computer Networks,Advanced Database
@@ -19,7 +19,7 @@ export default class About extends Component {
                 Computing, Artificial Intelligence,Advanced Operating Systems.
                 During the coursework, I was involved in development and
                 implementation of various projects for the same courses which
-                game me immense knowledge about different new technologies as
+                gave me immense knowledge about different new technologies as
                 well as gave me exposure and confidence.
               </p>
               <p>
