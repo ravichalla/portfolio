@@ -65,6 +65,21 @@ export default class Header extends Component {
             <div className="nine columns main-col">
               <div className="row item">
                 <div className="twelve columns">
+                  <h3>University Of Central Missouri</h3>
+                  <p className="info">
+                    Tech Support cum Front Desk staff<span>•</span>{" "}
+                    <em className="date">August 2018 - Present</em>
+                  </p>
+                  <p>
+                    Currently working on an app,for tracking the location of shuttle bus, which has users of about 70 people.
+                    Responsible for maintaining the WIFI service by using Cisco-Meraki Web app. Manage facilities and equipment usage and provide technical support as needed.
+                    Coordinate the tasks , that happen during any events in the university. 
+                  </p>
+                </div>
+              </div>{" "}
+              {/* item end */}
+              <div className="row item">
+                <div className="twelve columns">
                   <h3> Wright State University</h3>
                   <h3 />
                   <p className="info">
@@ -88,7 +103,7 @@ export default class Header extends Component {
                   <h3>Tata Consultancy Services</h3>
                   <p className="info">
                     Software Engineer <span>•</span>{" "}
-                    <em className="date">March 2007 - February 2010</em>
+                    <em className="date">October 2016 - December 2017</em>
                   </p>
                   <p>
                     Worked with different clients such as Visteon, Johnson
