@@ -18,6 +18,14 @@ let projectdata = {
       projectlink: "#",
       projecttags: "Python,Word Count",
       codeurl: "https://github.com/ravichalla/wordcount-project"
+    },
+    {
+      picfile: "/images/portfolio/elk.png",
+      projecttitle: "Elk Stack project",
+      projectdescription: "Created Elk using docker compose and viewed  data on Kibana",
+      projectlink: "#",
+      projecttags: "Docker,Elastic Search,Logstash,Kibana",
+      codeurl: ""
     }
   ]
 };
@@ -63,6 +71,7 @@ export default class Project extends Component {
                             name="mark-github"
                             mega
                           />
+                          Github | 
                         </a>
                         <a target="_blank" href={item.projectlink}>
                           <Octicon
