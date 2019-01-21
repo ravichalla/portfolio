@@ -71,7 +71,7 @@ export default class Project extends Component {
                             name="mark-github"
                             mega
                           />
-                        <span style={{color:'white', font-size:'24px'};}> Github  </span>
+                        <span style={{color:'white'};}> Github  </span>
                         </a>
                         <a target="_blank" href={item.projectlink}>
                           <Octicon
