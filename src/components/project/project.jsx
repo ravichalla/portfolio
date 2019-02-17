@@ -20,7 +20,7 @@ let projectdata = {
       codeurl: "https://github.com/ravichalla/wordcount-project"
     },
     {
-      picfile: "/images/portfolio/elk.jpg",
+      picfile: "/images/portfolio/elk.png",
       projecttitle: "Elk Stack project",
       projectdescription: "Created Elk using docker compose and viewed  data on Kibana",
       projectlink: "#",
