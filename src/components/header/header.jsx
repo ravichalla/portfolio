@@ -57,7 +57,7 @@ export default class Header extends Component {
                 support open-source sofware with also skills of{" "}
                 <span>DevOps</span>. Let's{" "}
                 <a className="smoothscroll" href="#about">
-                  start scrolling
+                  start scrolling{" "}
                 </a>
                 and learn more{" "}
                 <a className="smoothscroll" href="#about">
@@ -94,12 +94,13 @@ export default class Header extends Component {
                   </a>
                 </li>
 
-                {/* Commented Insta & Dribble
+                
                 <li>
-                  <a href="#">
-                    <i className="fa fa-instagram" />
+                  <a href="https://github.com/ravichalla">
+                    <i className="fa fa-github" />
                   </a>
                 </li>
+                {/* Commented Insta & Dribble
                 <li>
                   <a href="#">
                     <i className="fa fa-dribbble" />
