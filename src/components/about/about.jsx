@@ -39,6 +39,11 @@ export default class About extends Component {
                 apply my knowledge as well as learn to enhance my technological,
                 leadership and communication skills.
               </p>
+               <p>
+                Developed project related to java and sql as team member in multiple projects 
+                 related to PaaS and multi domain areas of finance, ecommerce and electronic sector.
+                 Trained and escalated to research and development team of Ezues R&D
+              </p>
               <div className="row">
                 <div className="columns contact-details">
                   <h2>Contact Details</h2>
