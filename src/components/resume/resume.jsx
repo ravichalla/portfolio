@@ -23,7 +23,7 @@ export default class Header extends Component {
                     <em className="date">Jan 2019</em>
                   </p>
                   <p>
-                    Did different projects and learnt real computer sciene
+                    Did different projects and learnt real computer science
                     techniques indepth ,so to apply those in real world problem
                     solving and for enterprises.see the portfolio.
                   </p>
