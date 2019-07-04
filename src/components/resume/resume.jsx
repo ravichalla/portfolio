@@ -65,16 +65,42 @@ export default class Header extends Component {
             <div className="nine columns main-col">
               <div className="row item">
                 <div className="twelve columns">
+                  <h3> Centene Corporation</h3>
+                  <h3 />
+                  <p className="info">
+                    Web Developer<span>•</span>{" "}
+                    <em className="date">May 2019 - Present</em>
+                  </p>
+                  <p>
+                    Worked on created Rest API creation using Golang ,
+                    containerized as docker containers and run on kubernetes
+                    making automatic deployments. Used Consul for service
+                    discovery, Vault for secrets, Kong for Api management.
+                    Reduced the document loading time by 92% , in system using
+                    In-memory cache. For checking the usage of API and logging
+                    implemented using ElasticSearch and visualize through kibana
+                    dashboard. Used gitlab for Continuous integration of code
+                    and continuous deployment and reduced the deployment times.
+                    Implement the service bus Kafka for messaging , which gave
+                    message throughput of around 125kB/s
+                  </p>
+                </div>
+              </div>{" "}
+              <div className="row item">
+                <div className="twelve columns">
                   <h3>University Of Central Missouri</h3>
                   <p className="info">
                     AI Lab Assistant and Technical Support<span>•</span>{" "}
-                    <em className="date">August 2018 - Present</em>
+                    <em className="date">August 2018 - Apr 2019</em>
                   </p>
                   <p>
-                    Practical building of latest neural networks and ensemble style of algorithm.
-                    Currently working on an app,for tracking the location of shuttle bus, which has users of about 70 people.
-                    Responsible for maintaining the WIFI service by using Cisco-Meraki Web app. Manage facilities and equipment usage and provide technical support as needed.
-                    Coordinate the tasks , that happen during any events in the university. 
+                    Practical building of latest neural networks and ensemble
+                    style of algorithm. Currently working on an app,for tracking
+                    the location of shuttle bus, which has users of about 70
+                    people. Responsible for maintaining the WIFI service by
+                    using Cisco-Meraki Web app. Manage facilities and equipment
+                    usage and provide technical support as needed. Coordinate
+                    the tasks , that happen during any events in the university.
                   </p>
                 </div>
               </div>{" "}
@@ -125,20 +151,21 @@ export default class Header extends Component {
               {/* item end */}
             </div>{" "}
             <div className="row item">
-                <div className="twelve columns">
-                  <h3>Ezues Private Limited</h3>
-                  <p className="info">
-                    Junior Software Engineer<span>•</span>{" "}
-                    <em className="date">January 2016 - October 2017</em>
-                  </p>
-                  <p>
-            Developed project related to java and sql as team member in multiple projects related 
-                    to PaaS and multi domain areas of finance, ecommerce and electronic sector. 
-                    Trained and escalated to research and development team of Ezues R&D
-                  </p>
-                </div>
-              </div>{" "}
-              {/* item end */}
+              <div className="twelve columns">
+                <h3>Ezues Private Limited</h3>
+                <p className="info">
+                  Junior Software Engineer<span>•</span>{" "}
+                  <em className="date">January 2016 - October 2017</em>
+                </p>
+                <p>
+                  Developed project related to java and sql as team member in
+                  multiple projects related to PaaS and multi domain areas of
+                  finance, ecommerce and electronic sector. Trained and
+                  escalated to research and development team of Ezues R&D
+                </p>
+              </div>
+            </div>{" "}
+            {/* item end */}
             {/* main-col end */}
           </div>{" "}
           {/* End Work */}
@@ -164,7 +191,7 @@ export default class Header extends Component {
                   </li>
                   <li>
                     <span className="bar" style={{ width: "70%" }} />
-                    <em>JavaScript(React JS,Node JS)</em>
+                    <em>Golang</em>
                   </li>
                   <li>
                     <span className="bar" style={{ width: "80%" }} />
@@ -181,6 +208,10 @@ export default class Header extends Component {
                   <li>
                     <span className="bar" style={{ width: "80%" }} />
                     <em>Kubernetes & Open Shift</em>
+                  </li>
+                  <li>
+                    <span className="bar" style={{ width: "70%" }} />
+                    <em>JavaScript(React JS,Node JS)</em>
                   </li>
                   <li>
                     <span className="bar" style={{ width: "80%" }} />
