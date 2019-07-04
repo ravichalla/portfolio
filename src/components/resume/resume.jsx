@@ -68,7 +68,7 @@ export default class Header extends Component {
                   <h3> Centene Corporation</h3>
                   <h3 />
                   <p className="info">
-                    Web Developer<span>•</span>{" "}
+                    Software Engineering Intern<span>•</span>{" "}
                     <em className="date">May 2019 - Present</em>
                   </p>
                   <p>
