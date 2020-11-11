@@ -72,4 +72,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is a project.
