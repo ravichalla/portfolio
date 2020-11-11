@@ -182,24 +182,16 @@ export default class Header extends Component {
               <div className="bars">
                 <ul className="skills">
                   <li>
-                    <span className="bar" style={{ width: "80%" }} />
-                    <em>Java</em>
-                  </li>
-                  <li>
                     <span className="bar" style={{ width: "70%" }} />
                     <em>Python</em>
                   </li>
                   <li>
-                    <span className="bar" style={{ width: "70%" }} />
-                    <em>Golang</em>
+                    <span className="bar" style={{ width: "80%" }} />
+                    <em>Kubernetes & Open Shift</em>
                   </li>
                   <li>
                     <span className="bar" style={{ width: "80%" }} />
-                    <em>Containers</em>
-                  </li>
-                  <li>
-                    <span className="bar" style={{ width: "80%" }} />
-                    <em>MicroServices</em>
+                    <em>Containers/Docker</em>
                   </li>
                   <li>
                     <span className="bar" style={{ width: "80%" }} />
@@ -207,7 +199,15 @@ export default class Header extends Component {
                   </li>
                   <li>
                     <span className="bar" style={{ width: "80%" }} />
-                    <em>Kubernetes & Open Shift</em>
+                    <em>Java</em>
+                  </li>
+                  <li>
+                    <span className="bar" style={{ width: "70%" }} />
+                    <em>Golang</em>
+                  </li>
+                  <li>
+                    <span className="bar" style={{ width: "80%" }} />
+                    <em>MicroServices</em>
                   </li>
                   <li>
                     <span className="bar" style={{ width: "70%" }} />
