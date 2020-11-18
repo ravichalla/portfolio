@@ -199,23 +199,20 @@ export default class Header extends Component {
                   </li>
                   <li>
                     <span className="bar" style={{ width: "80%" }} />
-                    <em>Java</em>
-                  </li>
-                  <li>
-                    <span className="bar" style={{ width: "70%" }} />
-                    <em>Golang</em>
-                  </li>
-                  <li>
-                    <span className="bar" style={{ width: "80%" }} />
                     <em>MicroServices</em>
                   </li>
                   <li>
-                    <span className="bar" style={{ width: "70%" }} />
-                    <em>JavaScript(React JS,Node JS)</em>
+                    <span className="bar" style={{ width: "50%" }} />
+                    <em>Java</em>
                   </li>
                   <li>
-                    <span className="bar" style={{ width: "80%" }} />
-                    <em>BPM/Rules</em>
+                    <span className="bar" style={{ width: "50%" }} />
+                    <em>Golang</em>
+                  </li>
+
+                  <li>
+                    <span className="bar" style={{ width: "50%" }} />
+                    <em>JavaScript(React JS,Node JS)</em>
                   </li>
                 </ul>
               </div>
