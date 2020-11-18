@@ -149,23 +149,6 @@ export default class Header extends Component {
                 </div>
               </div>{" "}
               {/* item end */}
-            </div>{" "}
-            <div className="row item">
-              <div className="twelve columns">
-                <h3>Ezues Private Limited</h3>
-                <p className="info">
-                  Junior Software Engineer<span>•</span>{" "}
-                  <em className="date">January 2016 - October 2017</em>
-                </p>
-                <p>
-                  Developed project related to java and sql as team member in
-                  multiple projects related to PaaS and multi domain areas of
-                  finance, ecommerce and electronic sector. Trained and
-                  escalated to research and development team of Ezues R&D
-                </p>
-              </div>
-            </div>{" "}
-            {/* item end */}
             {/* main-col end */}
           </div>{" "}
           {/* End Work */}
