@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "geopattern": "^1.2.3",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-mdl": "^1.11.0",
     "react-octicon": "^3.0.1",
     "react-router-dom": "^4.3.1",
